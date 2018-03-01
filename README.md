@@ -1,7 +1,7 @@
 # ConfigEdit
 Configuration editor optimized for Minecraft modpack developers.
 
-##Maven:
+## Maven:
 
 ArtifactID: `configedit`
 GroupID: `com.cjburkey`
