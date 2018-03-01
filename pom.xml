@@ -5,6 +5,8 @@
 	<version>0.0.1</version>
 	<name>ConfigEdit</name>
 	<description>Configuration editor optimized for Minecraft modpack developers.</description>
+	<dependencies>
+	</dependencies>
 	<build>
 		<plugins>
 			<plugin>
